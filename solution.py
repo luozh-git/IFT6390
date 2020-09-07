@@ -13,7 +13,7 @@ class NumpyBasics:
         return a + b
 
     def add_array_number(self, a, num):
-        return a + b
+        return a + num
 
     def multiply_elementwise_arrays(self, a, b):
         return np.multiply(a, b)
